@@ -1,0 +1,10 @@
+C:\Users\tatuharu\Documents\Visual Studio 2017\Projects\ハルのブロック変換ソフト\ハルのブロック変換ソフト\bin\Release\ハルのブロック変換ソフト.exe.config
+C:\Users\tatuharu\Documents\Visual Studio 2017\Projects\ハルのブロック変換ソフト\ハルのブロック変換ソフト\bin\Release\ハルのブロック変換ソフト.exe
+C:\Users\tatuharu\Documents\Visual Studio 2017\Projects\ハルのブロック変換ソフト\ハルのブロック変換ソフト\bin\Release\ハルのブロック変換ソフト.pdb
+C:\Users\tatuharu\Documents\Visual Studio 2017\Projects\ハルのブロック変換ソフト\ハルのブロック変換ソフト\bin\Release\SilverNBTLibrary.dll
+C:\Users\tatuharu\Documents\Visual Studio 2017\Projects\ハルのブロック変換ソフト\ハルのブロック変換ソフト\obj\Release\ハルのブロック変換ソフト.Form1.resources
+C:\Users\tatuharu\Documents\Visual Studio 2017\Projects\ハルのブロック変換ソフト\ハルのブロック変換ソフト\obj\Release\ハルのブロック変換ソフト.Properties.Resources.resources
+C:\Users\tatuharu\Documents\Visual Studio 2017\Projects\ハルのブロック変換ソフト\ハルのブロック変換ソフト\obj\Release\ハルのブロック変換ソフト.csproj.GenerateResource.Cache
+C:\Users\tatuharu\Documents\Visual Studio 2017\Projects\ハルのブロック変換ソフト\ハルのブロック変換ソフト\obj\Release\ハルのブロック変換ソフト.exe
+C:\Users\tatuharu\Documents\Visual Studio 2017\Projects\ハルのブロック変換ソフト\ハルのブロック変換ソフト\obj\Release\ハルのブロック変換ソフト.pdb
+C:\Users\tatuharu\Documents\Visual Studio 2017\Projects\ハルのブロック変換ソフト\ハルのブロック変換ソフト\obj\Release\ハルのブロック変換ソフト.csprojResolveAssemblyReference.cache
